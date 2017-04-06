@@ -1,0 +1,26 @@
+/* form validation page starts */
+
+form{
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: fixed;
+}
+
+.row>.form-control{
+	width: auto;
+	height: auto;
+}
+
+.reset{
+	float: left;
+    margin-top: 21px;
+    margin-bottom: 5px;
+}
+
+.sub{
+	float: right;
+    margin-top: 21px;
+}
+
+/* form validation page ends */
